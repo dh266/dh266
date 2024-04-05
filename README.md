@@ -8,7 +8,7 @@ Welcome to my personal repository!
 - 🤔 I'm eager to connect with fellow enthusiasts and professionals to exchange ideas and stay updated on the latest trends and advancements in the tech world.
 - 💬 Ask me about anything related to computer engineering, from software development to hardware design, and I'll do my best to help!
 - 📫 Feel free to reach out to me via '19020542@vnu.edu.vn' . I'm always up for a good conversation or collaboration opportunity!
-- ⚡ Fun fact: I'm writtting this by my funny chat:))
+- ⚡ Fun fact: I'm writtting this with my funny chat:))
 
 Thanks for stopping by, and I look forward to connecting with you! 🚀
 <!--
